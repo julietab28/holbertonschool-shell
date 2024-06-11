@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%02x\n" $NUM
+printf "%06x\n" $NUM
